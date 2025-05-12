@@ -1,0 +1,307 @@
+h2 {
+    color: rgba(145, 32, 32, 0.178);
+    text-align: center;
+  }
+  
+    /* 1 body испоользовался 1 раз*/
+  body {
+    
+    background-image: url(https://theseedtherootthefruit.wordpress.com/wp-content/uploads/2014/03/108048-1680x1050-desktopnexus-com.jpg); 
+  
+    background-position: center center;
+   
+    background-repeat: no-repeat;
+
+     background-attachment: fixed;
+
+    background-size: cover;
+ 
+  }
+  
+  
+
+  .span{
+      font-style: italic;
+      background-color: rgba(211, 199, 29, 0.842);
+      color: rgb(134, 33, 173);
+   }
+  
+   
+   .gnom{
+      font-style: italic;
+      background-color: rgba(211, 199, 29, 0.842);
+      color: rgb(134, 33, 173);
+   }
+  
+
+  
+
+   .fol{
+      list-style: inside;
+   }
+
+   .othez{
+     font-size: large;
+     background-color: yellowgreen;
+     margin: 20px; 
+
+     padding : 20px;
+
+   } 
+
+   .logo1{
+      color: goldenrod;
+  }
+  .logo2{
+    color: greenyellow;
+  }
+  
+
+   .RGB1 {
+        background: linear-gradient(to right, rgb(0, 255, 136), rgb(194, 255, 25) );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+
+  
+   .RGB2 {
+        background: linear-gradient(to right, rgb(19, 205, 238), gold  , rgb(19, 209, 243));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 40px;
+        line-height: 40px;
+      }
+  
+   .RGB3 {
+        background: linear-gradient(to right, rgb(255, 238, 0), rgb(30, 255, 0), violet);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 40px;
+        line-height: 40px;
+      }
+    
+   .RGB4 {
+        background: linear-gradient(to right, rgb(30, 255, 0) , gold  , violet);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 40px;
+        line-height: 40px;
+        
+      }
+  
+      .RGB5 {
+        background: linear-gradient(to right, rgb(60, 255, 0)  ,rgb(255, 196, 0)  , rgba(180, 977, 01, 9.61) , rgb(255, 74, 11), gold );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 40px;
+        line-height: 40px;
+      }
+  
+      .RGB6 {
+        background: linear-gradient(to right, rgb(14, 202, 193), rgb(188, 199, 33));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+  
+      .RGB7 {
+        background: linear-gradient(to right, rgb(175, 177, 177), rgb(200, 255, 0) ,  rgba(19, 160, 179, 0.87)) ;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+  
+      .RGB8 {
+        background: linear-gradient(to right, rgba(124, 126, 126, 0.637), rgb(225, 226, 222) ,  rgba(134, 134, 134, 0.87)) ;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+      .RGB9 {
+        background: linear-gradient(to right, rgba(230, 27, 13, 0.637), rgb(225, 226, 222) , rgba(230, 27, 13, 0.637)) ;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+  
+      .RGB10 {
+        background: linear-gradient(to right, rgb(162, 245, 245), rgb(200, 255, 0) ,  rgba(19, 160, 179, 0.87)) ;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+  
+      .RGB11 {
+        background: linear-gradient(to right, rgb(169, 255, 255), rgb(0, 255, 128) ,  rgba(0, 225, 255, 0.87)) ;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+  
+  
+      .RGB12 {
+        background: linear-gradient(to right, rgb(255, 169, 169), rgb(253, 185, 255) ,  rgba(255, 130, 130, 0.87)) ;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+  
+      .RGB13 {
+        background: linear-gradient(to right, rgb(255, 123, 0),rgb(255, 51, 0)  ) ;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+  
+      
+      .RGB0 {
+        background: linear-gradient(to right,  rgb(19, 18, 18),rgb(0, 0, 0));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+  
+      .RGB01 {
+        background: linear-gradient(to right,  rgb(231, 229, 227),rgb(255, 255, 255));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 23px;
+        line-height: 23px;
+      }
+  
+  
+  
+                     
+  
+      .element {
+        transition: box-shadow 0.73s ease;  
+        transition: text-shadow  0.75s ease; 
+      }
+  
+      .element:hover {
+        box-shadow: 0 0 70px #adf700; 
+        text-shadow : 0 0 32px  rgb(97, 243, 0); 
+      }
+      
+      .elem {
+        transition: box-shadow 0.74s ease;  
+        transition: text-shadow  0.75s ease; 
+      }
+      
+      .elem:hover {
+        box-shadow: 0 0 80px #f38304;  
+        text-shadow : 0 0 32px  rgb(243, 239, 0); 
+      }
+  
+      
+      .el {
+        transition: box-shadow 0.44s ease;  
+        transition: text-shadow  0.75s ease; 
+      }
+  
+      .el:hover {
+        box-shadow: 0 0 70px #d80869;  
+        text-shadow : 0 0 32px  rgb(17, 231, 149); 
+      }
+      
+      .elt {
+        transition: box-shadow 0.73s ease; 
+        transition: text-shadow  0.75s ease; 
+      }
+   
+      .elt:hover {
+        box-shadow: 0 0 80px #caf700; 
+        text-shadow : 0 0 32px #caf700;
+      }
+  
+     .logi {
+        transition: box-shadow 0.75s ease; 
+        transition: text-shadow  0.75s ease; 
+      }
+   
+      .logi:hover {
+        box-shadow: 0 0 90px rgba(0, 255, 136, 0.795); 
+        text-shadow : 0 0 70px  rgb(0, 194, 243); 
+      }
+      
+      .lo {
+        transition: box-shadow 0.73s ease; 
+        transition: text-shadow  0.75s ease; 
+      }
+   
+      .lo:hover {
+        box-shadow: 0 0 50px #f1dede;  
+        text-shadow : 0 0 32px #a8b473;
+      }
+      .londom {
+        transition: box-shadow 0.73s ease; 
+        transition: text-shadow  0.75s ease; 
+      }
+   
+      .londom:hover {
+        box-shadow: 0 0 50px #41282c;  
+        text-shadow : 0 0 32px #59325a;
+      }
+      
+
+      .cicret {
+        background: linear-gradient(to right, pink  , rgba(21, 132, 146, 0.87)  , rgb(255, 191, 0)yellow , #F3E5C6, rgb(255, 94, 0), gold  , violet);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 40px;
+        line-height: 40px;
+        text-decoration: none;
+ 
+      }
+  
+  
+  .wrapper p {
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 7px 7px 10px #00c3ff79;
+  }
+  
+
+  
+    .bigbols{
+      color: #caf700;
+      font-size: 17px;
+      line-height: 17px;
+    }
+
+  audio::-webkit-media-controls-play-button,
+  audio::-webkit-media-controls-panel {
+  background-color: #9cbb12;
+  color: #779c11;
+  }
+  
+
+  .tablediv { display: inline-block; width: 325px; overflow: hidden }
+  
+  
+  .maubi{
+
+    margin-top: 1px; 
+
+    width: 1915px;
+
+    height: 90px;
+   
+    border: 3pt ridge rgba(112, 220, 50, 0.212);
+ 
+    background-color: rgba(3, 3, 3, 0);
+    
+    font-size: 30px;
+    
+  }
