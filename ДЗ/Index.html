@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Пример сайта с 3D-кнопками</title>
+    <title>Site</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,7 +12,7 @@
             align-items: center;
             justify-content: center;
             height: 100vh;
-            background-color: #E0FFFF; /* Цвет фона */
+            background-color: #E0FFFF; 
         }
         button {
             margin: 10px;
@@ -25,22 +25,21 @@
             outline: none;
         }
         .button1 {
-            background-color: #FAFAD2; /* Цвет для кнопки 1 */
+            background-color: #FAFAD2; 
         }
         .button2 {
-            background-color: #90EE90; /* Цвет для кнопки 2 */
+            background-color: #90EE90; 
         }
         .button3 {
-            background-color: #FAFAD2; /* Цвет для кнопки 3 */
+            background-color: #FAFAD2; 
         }
         .button4 {
-            background-color: #90EE90; /* Цвет для кнопки 4 */
+            background-color: #90EE90; 
         }
         .button5 {
-            background-color: #FAFAD2; /* Цвет для кнопки 5 */
+            background-color: #FAFAD2;
         }
 
-        /* Эффект 3D */
         button:hover {
             transform: translateY(-5px);
             box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
@@ -54,29 +53,31 @@
 </head>
 <body>
 
-    <h1>Пример сайта с 3D-кнопками</h1>
+    <h1>Руслан Султанович Аушев</h1>
 
-    <button class="button1" onclick="buttonClicked(1)">Кнопка 1</button>
-    <button class="button2" onclick="buttonClicked(2)">Кнопка 2</button>
-    <button class="button3" onclick="buttonClicked(3)">Кнопка 3</button>
-    <button class="button4" onclick="buttonClicked(4)">Кнопка 4</button>
-    <button class="button5" onclick="buttonClicked(5)">Кнопка 5</button>
+    <button class="button1" onclick="buttonClicked(1)">Актуальность</button>
+    <button class="button2" onclick="buttonClicked(2)">Служба в армии</button>
+    <button class="button3" onclick="buttonClicked(3)">Картинки</button>
+    <button class="button4" onclick="buttonClicked(4)">Заключение</button>
+    <button class="button5" onclick="buttonClicked(5)">Песня</button>
 
     <script>
         function buttonClicked(buttonNumber) {
             switch (buttonNumber) {
                 case 1:
-                    window.location.href = 'Bio.html'; // Замените на ваш файл
+                    window.location.href = 'ACT.html'; 
                     break;
                 case 2:
-                    window.location.href = '2.html'; // Замените на ваш файл
+                    window.location.href = 'aRMI.html'; 
                     break;
                 case 3:
-                    window.location.href = '3.html'; // Замените на ваш файл
+                    window.location.href = 'Pics.html'; 
                     break;
                 case 4:
-                    window.location.href = '4.html'; // Замените на ваш файл
-                    break;1
+                    window.location.href = 'Zacl.html'; 
+                    break;
+                case 5:
+                    window.location.href = 'Song.html'; 
             }
         }
     </script>
